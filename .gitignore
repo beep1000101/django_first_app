@@ -1,0 +1,4 @@
+.env
+.vscode/
+
+django_first_app/
